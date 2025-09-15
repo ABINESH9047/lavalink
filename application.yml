@@ -15,7 +15,7 @@ lavalink:
         frameBufferDurationMs: 5000
         gcWarnings: true
         opusEncodingQuality: 10
-        password: rocky
+        password: fgrockydev
         playerUpdateInterval: 5
         resamplingQuality: HIGH
         soundcloudSearchEnabled: true
